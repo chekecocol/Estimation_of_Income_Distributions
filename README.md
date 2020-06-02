@@ -1,13 +1,23 @@
 # Estimation_of_Income_Distributions
+## Estimation of Income Distributions (2020)
 
-Income distributions are fitted to a Generalized Gamma distribution via Maximum Likelihood Estimation.
+### Author
+* Ezequiel Piedras Romero, Banco de Mexico
 
-These scripts aim to be able to replicate the results from Bustos & Leyva (2017).
+### Description  
+Income distributions are fitted to a Generalized Gamma distribution via Maximum Likelihood Estimation.  
+These scripts aim to be able to replicate the results from Bustos & Leyva (2017).  
 
-References:
+### Software requirements
+Tested on:  
+* Python 3.7.7
+* Numpy 1.18.3
+* Tensorflow 2.1.0
+* Tensorflow Probability 0.9.0 with Gast 0.2.2
+* Scipy 1.4.1
+* Pandas 1.0.3
 
-https://rlhick.people.wm.edu/posts/custom-likes-tensorflow.html
-
-https://en.wikipedia.org/wiki/Generalized_gamma_distribution
-
+### References:  
+https://rlhick.people.wm.edu/posts/custom-likes-tensorflow.html  
+https://en.wikipedia.org/wiki/Generalized_gamma_distribution  
 https://medium.com/analytics-vidhya/3-different-ways-to-perform-gradient-descent-in-tensorflow-2-0-and-ms-excel-ffc3791a160a
