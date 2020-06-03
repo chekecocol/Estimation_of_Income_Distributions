@@ -19,6 +19,8 @@ Tested on:
 * Pandas 1.0.3
 
 ### References:  
-https://rlhick.people.wm.edu/posts/custom-likes-tensorflow.html  
 https://en.wikipedia.org/wiki/Generalized_gamma_distribution  
-https://medium.com/analytics-vidhya/3-different-ways-to-perform-gradient-descent-in-tensorflow-2-0-and-ms-excel-ffc3791a160a
+https://www.gamlss.com/wp-content/uploads/2018/01/DistributionsForModellingLocationScaleandShape.pdf  
+
+https://rlhick.people.wm.edu/posts/custom-likes-tensorflow.html  
+https://medium.com/analytics-vidhya/3-different-ways-to-perform-gradient-descent-in-tensorflow-2-0-and-ms-excel-ffc3791a160a  
