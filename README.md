@@ -5,7 +5,7 @@
 Ezequiel Piedras Romero, Banco de Mexico.
 
 ### Description  
-Income data from surveys are fitted to a Generalized Gamma distribution using Maximum Likelihood Estimation. The estimated parameters are subject to constraints. Estimation is carried out using Tensorflow and Scipy.
+Income data from surveys are fitted to a Generalized Gamma distribution and to a Generalized Beta Type II using Maximum Likelihood Estimation. The estimated parameters are subject to constraints. Estimation is carried out using Tensorflow and Scipy.
 
 These scripts aim to be able to replicate the results from Bustos & Leyva (2017).  
 
